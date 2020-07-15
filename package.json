@@ -1,7 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
-  "version": "0.0.1",
+  "name": "sapper-playground",
+  "version": "0.0.0-semantic-release",
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
