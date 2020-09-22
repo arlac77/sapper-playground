@@ -1,3 +1,13 @@
+<script>
+	console.log("ABOUT");
+
+	import websocketStore from 'svelte-websocket-store';
+
+export const myStore = websocketStore("wss://mydomain.com/ws1", {});
+
+console.log(myStore);
+
+</script>
 <svelte:head>
 	<title>About</title>
 </svelte:head>
