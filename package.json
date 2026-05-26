@@ -12,10 +12,10 @@
     "compression": "^1.7.1",
     "polka": "next",
     "sirv": "^1.0.0",
-    "svelte-websocket-store": "^1.2.14"
+    "svelte-websocket-store": "^1.2.15"
   },
   "devDependencies": {
-    "@babel/core": "^7.29.0",
+    "@babel/core": "^7.29.7",
     "@babel/plugin-syntax-dynamic-import": "^7.0.0",
     "@babel/plugin-transform-runtime": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
